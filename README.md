@@ -64,3 +64,5 @@ All successful transactions and errors are printed in the console with the appro
 
 - Ensure your private keys are correct, as invalid keys will result in errors.
 - The cookies must match the correct wallet addresses, or the faucet claim will be skipped for that wallet.
+
+## Thanks You
